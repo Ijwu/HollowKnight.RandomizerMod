@@ -17,8 +17,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiWorldServer", "MultiWo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomizerLib3.0", "RandomizerLib3.0\RandomizerLib3.0.csproj", "{9A6E25CA-F58E-4F1B-9187-7142844A7D0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeClient", "MWRandomizerTest\FakeClient.csproj", "{532E9758-15E7-4D47-851D-A07407ED1F1C}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,10 +39,6 @@ Global
 		{9A6E25CA-F58E-4F1B-9187-7142844A7D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A6E25CA-F58E-4F1B-9187-7142844A7D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A6E25CA-F58E-4F1B-9187-7142844A7D0A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{532E9758-15E7-4D47-851D-A07407ED1F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{532E9758-15E7-4D47-851D-A07407ED1F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{532E9758-15E7-4D47-851D-A07407ED1F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{532E9758-15E7-4D47-851D-A07407ED1F1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
